@@ -1,7 +1,7 @@
 # Challenge 11: UFOs
 
 ## Overiew of UFOs
-Build a web page for UFO Sightings which allows users to dynamically filter the presented data based on their input. The table filters available are: date, city, state, country and shape. This application will be using JavaScript and HTML. 
+The purpose of this project is to build a web page for UFO Sightings which allows users to dynamically filter the presented data based on their input. The table filters available are: date, city, state, country and shape. This application will be using JavaScript and HTML. 
 
 The data for the web page is in [data.js](https://github.com/Hala-INTJ/UFOs/blob/main/static/js/data.js), the web application logic is in [app.js](https://github.com/Hala-INTJ/UFOs/blob/main/static/js/app.js) and the structure of the webpage is in [index.html](https://github.com/Hala-INTJ/UFOs/blob/main/static/js/index.html).
 ## UFOs Results
