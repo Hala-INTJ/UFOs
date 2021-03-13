@@ -34,7 +34,7 @@ The current solution requires the user to enter exact match filter criteria. To 
 #### Replace Text Filters With Selections
 For some fields such as state and shape, it would be better to present the user with a drop down list of values to select from. These values could be discovered from the data. Here's an exmaple for the shape filter field:
 
-| ![](https://github.com/Hala-INTJ/UFOs/blob/main/static/images/dropdown_allshapes.png) | ![](https://github.com/Hala-INTJ/UFOs/blob/main/static/images/dropdown_oval.png) |
+![](https://github.com/Hala-INTJ/UFOs/blob/main/static/images/dropdown_allshapes.png) ![](https://github.com/Hala-INTJ/UFOs/blob/main/static/images/dropdown_oval.png)
 
 
 
