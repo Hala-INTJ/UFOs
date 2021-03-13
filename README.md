@@ -14,7 +14,7 @@ Upon loading the webpage, the UFO Sightings data in [data.js](https://github.com
 
 ![](https://github.com/Hala-INTJ/UFOs/blob/main/static/images/webpage.png)
 ### Update Filters
-When the user alters the text in any of the text input fields, the sets of filters is updated. Filters can be removed by clearing the values in the fields. The filters are only updated after pressing "enter" or "moving focus". 
+When the user alters the text in any of the text input fields, the set of filters is updated. Filters can be removed by clearing the values in the fields. The filters are only updated after pressing "enter" or "moving focus". 
 ### Filtering the Table
 Whenever filters are updated, the data displayed in the table is updated accordingly and the user interface is refreshed. Only rows which match all filter values will be displayed, and only exact matches.
 
